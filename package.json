@@ -20,6 +20,10 @@
   ],
   "author": "Petka Antonov <petka_antonov@hotmail.com> (https://github.com/petkaantonov/)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lextiz/bluebird-q.git"
+  },
   "dependencies": {
     "bluebird": "^3.4.6"
   },
